@@ -1,7 +1,7 @@
 ### Hi i'm Sharkey :)
 
 - 👋 Hi, I’m @sharkey52
-- 👀 I’m interested in scube diving, travelling, and hill walking
+- 👀 I’m interested in scuba diving, travelling, and hill walking
 - 🌱 I’m currently learning javascript and c
 - 💻 I'm currently working on PyInTheSky... an object detection system for satellite images
 - 💞️ I’m looking to collaborate on data science projects using python
