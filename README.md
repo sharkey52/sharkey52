@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning javascript and c
 - 💻 I'm currently working on PyInTheSky... an object detection system for satellite images
 - 💞️ I’m looking to collaborate on data science projects using python
-- 🥅 2022 goals: contribute to open source projects and learn php
+- 🥅 2024 goals: contribute to open source projects and learn php
 - 📫 How to reach me: jpr.sharkey@gmail.com
 
 ### Connect with me
